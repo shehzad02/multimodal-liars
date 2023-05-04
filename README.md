@@ -6,3 +6,6 @@ Multimodal ML project on lie detection
 **note - above issue has now been patched!!!.
 
                                                          Live Long and Prosper
+
+With the endof this project, as a team
+![image](https://user-images.githubusercontent.com/73607093/236098039-165c3a5d-2b99-474d-9405-3b5b73891e95.png)
